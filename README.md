@@ -13,7 +13,8 @@ We provide MATLAB code for preparing the training and test data. Please first do
 
 ## Code
 In this implementation, we only provide a model with 5-layer channel attention-based residual blocks, and the original paper utilized a pre-trained video frame interpolation network. You can design your own framework for training.
-If you find any mistakes/bugs, please contact us.
+
+* If you find any mistakes/bugs, please contact us.
 
 * For training, run:
   ```python
