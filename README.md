@@ -20,8 +20,6 @@ In this implementation, we only provide a model with 5-layer channel attention-b
   ```python
   python train.py
 
-```
-
 ## Acknowledgement
 Our work and implementations are based on the following projects: <br> 
 [LF-DFnet](https://github.com/YingqianWang/LF-DFnet)<br> 
